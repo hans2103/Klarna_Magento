@@ -1,0 +1,14 @@
+{
+  "name": "klarna/magento",
+  "type": "magento-module",
+  "homepage": "https://github.com/hans2103/Klarna_Magento",
+  "description": "Klarna - magento module",
+  "authors": [
+    {
+      "name": "Klarna"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}

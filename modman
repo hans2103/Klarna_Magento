@@ -1,0 +1,8 @@
+app/code/local/Sisow/									app/code/local/Sisow/
+app/design/adminhtml/default/default/template/sisow/	app/design/adminhtml/default/default/template/sisow/
+app/design/frontend/base/default/layout/*				app/design/frontend/base/default/layout/
+app/design/frontend/base/default/template/sisow/*		app/design/frontend/base/default/template/sisow/
+etc/modules/*											etc/modules/
+app/locale/en_US/*										app/locale/en_US/
+app/locale/nl_NL/*										app/locale/nl_NL/
+media/sisow/logo/*										media/sisow/logo/
